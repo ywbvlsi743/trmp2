@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 10 Nov 2024 20:57:03 at http://presidentmaga.xyz +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://presidentmaga.xyz -O1 "D:\trmp2\cool" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:57:03	Warning: 	Moved Permanently for presidentmaga.xyz/robots.txt
+20:57:03	Warning: 	Redirected link is identical because of 'URL Hack' option: presidentmaga.xyz/robots.txt and https://presidentmaga.xyz/robots.txt
+20:57:03	Warning: 	Warning moved treated for presidentmaga.xyz/robots.txt (real one is https://presidentmaga.xyz/robots.txt)
+20:57:04	Warning: 	Moved Permanently for presidentmaga.xyz/
+20:57:04	Warning: 	Redirected link is identical because of 'URL Hack' option: presidentmaga.xyz/ and https://presidentmaga.xyz/
+20:57:04	Warning: 	File has moved from presidentmaga.xyz/ to https://presidentmaga.xyz/
+20:57:04	Warning: 	No data seems to have been transferred during this session! : restoring previous one!

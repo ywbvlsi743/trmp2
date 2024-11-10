@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:57:03	166/166	---M--	301	error ('Moved%20Permanently')	text/html	date:Sun,%2010%20Nov%202024%2019:57:03%20GMT	http://presidentmaga.xyz/robots.txt		(from )
+20:57:04	166/166	---M--	301	error ('Moved%20Permanently')	text/html	date:Sun,%2010%20Nov%202024%2019:57:04%20GMT	http://presidentmaga.xyz/	D:/trmp2/cool/presidentmaga.xyz/index.html	(from )
